@@ -23,3 +23,22 @@ Bu proje; lise, meslek lisesi ve üniversite öğrencilerinin web programlama de
 ├── duzenle.php        # Üye bilgi güncelleme sayfası
 ├── sil.php            # Üye silme arka plan dosyası
 └── veritabani.sql     # MySQL veritabanı ve örnek tablo dosyası
+---
+
+## ⚙️ Kurulum Rehberi
+
+Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
+
+1. **Yerel Sunucu Kurulumu:** 
+   Bilgisayarınızda **XAMPP**, **WAMP** veya **Laragon** gibi bir yerel sunucu ortamının kurulu olduğundan emin olun ve Apache ile MySQL servislerini başlatın.
+
+2. **Dosyaları Kopyalayın:**
+   Projeyi indirin veya klonlayın, ardından proje dosyalarını yerel sunucunuzun ana dizinine (örneğin XAMPP için `C:/xampp/htdocs/` klasörünün içine) atın.
+
+3. **Veritabanını Oluşturun:**
+   * Tarayıcınızdan `http://localhost/phpmyadmin/` adresine gidin.
+   * Proje içerisindeki **`veritabani.sql`** dosyasını içeri aktararak (import) `okul_projesi` veritabanını ve örnek üyeleri otomatik olarak oluşturun.
+
+4. **Projeyi Çalıştırın:**
+   Tarayıcınıza şu adresi yazarak uygulamaya ulaşın:
+   `http://localhost/university-highschool-mysql-php-example/index.php`
