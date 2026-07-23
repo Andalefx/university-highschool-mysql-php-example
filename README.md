@@ -23,7 +23,7 @@ Bu proje; lise, meslek lisesi ve üniversite öğrencilerinin web programlama de
 ├── duzenle.php        # Üye bilgi güncelleme sayfası
 ├── sil.php            # Üye silme arka plan dosyası
 └── veritabani.sql     # MySQL veritabanı ve örnek tablo dosyası
----
+
 
 ## ⚙️ Kurulum Rehberi
 
