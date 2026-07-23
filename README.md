@@ -46,6 +46,4 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları t
 ---
 
 ## 🤝 Katkıda Bulunma
-Eğer bu projeyi faydalı bulduysanız ve lise ile üniversite öğrencilerine daha fazla açık kaynak kodlu örnek hazırlamama destek olmak isterseniz, bir kahve ısmarlayabilir veya projeye yıldız (⭐) verebilirsiniz!
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F0F0F2?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000)](Destek_Linkini_Buraya_Yaz)
+Eğer bu projeyi faydalı bulduysanız ve lise ile üniversite öğrencilerine daha fazla açık kaynak kodlu örnek hazırlamama destek olmak isterseniz, projeye yıldız (⭐) verebilirsiniz!
